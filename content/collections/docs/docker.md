@@ -99,8 +99,8 @@ You can now follow the steps to [install Statamic into Laravel](/installing/lara
 :::tip
 Keep in mind that  commands need to be run inside Sail.
 
-- Instead of `php artisan`, run `sail artisan`
-- Instead of `composer require`, run `sail composer require`
+- Instead of `php artisan`, run `./vendor/bin/sail artisan`
+- Instead of `composer require`, run `./vendor/bin/sail composer require`
 :::
 
 
